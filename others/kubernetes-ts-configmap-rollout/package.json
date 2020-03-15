@@ -1,0 +1,10 @@
+{
+    "name": "configmap-rollout",
+    "devDependencies": {
+        "@types/node": "^8.0.0"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^1.0.0",
+        "@pulumi/kubernetes": "^1.0.0"
+    }
+}

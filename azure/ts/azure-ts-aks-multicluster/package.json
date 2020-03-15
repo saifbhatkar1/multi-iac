@@ -1,0 +1,14 @@
+{
+    "name": "azure-ts-aks-multicluster",
+    "version": "0.1.0",
+    "devDependencies": {
+        "@types/node": "^8.0.0"
+    },
+    "dependencies": {
+        "@pulumi/azure": "^2.0.0",
+        "@pulumi/azuread": "^1.0.0",
+        "@pulumi/kubernetes": "^1.0.0",
+        "@pulumi/pulumi": "^1.0.0"
+    },
+    "license": "Apache-2.0"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "azure-ts-appservice",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@types/node": "^8.0.0"
+    },
+    "dependencies": {
+        "@pulumi/azure": "^2.0.0",
+        "@pulumi/pulumi": "^1.0.0"
+    }
+}
